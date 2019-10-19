@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana;
+}
+
+#main {
+    width: 100%;
+
+}
+
+nav {
+    width: 100%;
+    height: 80px;
+    background-color: rgba(4, 52, 75, 0.93);
+    line-height: 80px;
+}
+
+nav ul {
+    float: right;
+    margin-right: 30px;
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    transition: 0.8s all;
+    font-size: 20px;
+
+}
+
+nav ul li:hover {
+    background-color: cornflowerblue;
+
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    padding: 30px;
+}
+
+.wrapper {
+    margin: 0 auto;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Bahnschrift;
+    background: url("wer.jpg");
+    background-size: cover;
+}

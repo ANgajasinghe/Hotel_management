@@ -1,0 +1,146 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+form {
+    border: 1px solid black;
+    border-radius: 15px;
+    width: 695px;
+    height: 474px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 71px;
+    margin-bottom: auto;
+    background-color: #cc9900;
+}
+
+#date {
+    width: 224px;
+    padding: 3px;
+}
+
+#name {
+    padding: 5px;
+    width: 220px;
+}
+
+#email {
+    padding: 5px;
+    width: 220px;
+}
+
+#supType {
+    padding: 6px;
+    width: 234px;
+}
+
+#acc {
+    padding: 5px;
+    width: 220px;
+}
+
+#bank {
+    padding: 5px;
+    width: 234px;
+}
+
+#item {
+    padding: 5px;
+    width: 220px;
+}
+
+
+#button {
+    width: 100px;
+    height: 35px;
+    border: 1px solid rgb(51, 51, 56);
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: #33cc33;
+    margin-left: 269%;
+    margin-top: 19%;
+}
+
+#button:hover {
+    background-color: rgb(39, 42, 201);
+    color: rgb(255, 253, 253);
+}
+
+#button1 {
+    width: 100px;
+    height: 35px;
+    border: 1px solid rgb(51, 51, 56);
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: #33cc33;
+    margin-left: -33px;
+    margin-top: 21px;
+}
+
+#button1:hover {
+    background-color: rgb(39, 42, 201);
+    color: rgb(255, 253, 253);
+}
+
+
+td {
+    margin-left: 15%;
+    margin-top: 7%;
+    padding-bottom: 7px;
+}
+
+input {
+    margin-left: 60%;
+}
+
+select {
+    margin-left: 60%;
+    width: 165px
+}
+
+table {
+    margin-left: 78px;
+    margin-top: 7%;
+}
+
+h5.topic {
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 26px;
+    margin-top: 24px;
+    margin-left: 36px;
+
+
+}

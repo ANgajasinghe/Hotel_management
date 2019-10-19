@@ -1,0 +1,509 @@
+#pdf_btn {
+    font-size: 120%;
+}
+
+#searchRoomModal  {
+    top: 12%;
+}
+
+#searchRoomTypeModal {
+    top: 16%;
+}
+
+#addRoomModal,
+#addRoomTypeModal {
+    top: 12%;
+}
+
+#addReservationModal {
+    top: 8%;
+}
+
+#deleteRoomModal,
+#deleteRoomTypeModal,
+#deleteReservationModal {
+    top: 25%;
+}
+
+#viewbody {
+    width: 100%;
+    height: 100%;
+    background: #4E7BA7;
+}
+
+#resform {
+    border: solid #00074b;
+    border-radius: 5px;
+    background: whitesmoke;
+}
+
+#col2 label {
+    margin-top: -2px;
+}
+
+#resform input,
+#resform textarea,
+#resform select {
+    text-align: center;
+}
+
+#updateroomform {
+    border: solid #00074b;
+    border-radius: 5px;
+    background: whitesmoke;
+    margin-top: 20%;
+}
+
+#updateroomform input,
+#updateroomform textarea,
+#updateroomform select {
+    text-align: center;
+}
+
+#model1 {
+    margin: 5% 35% 1% 32%;
+}
+
+#title2 {
+    margin-bottom: -10px;
+}
+
+#foot input {
+    margin-top: 60px;
+}
+
+#model1-dialog {
+    max-width: 600px;
+}
+
+.model {
+    margin: 1% 35% 1% 37%;
+    width: 50%;
+}
+
+.radio {
+    text-align: left;
+    margin-left: 30px;
+}
+
+#viewform {
+    border: solid #00074b;
+    border-radius: 5px;
+    background: whitesmoke;
+}
+
+#body {
+    margin-top: -30px;
+}
+
+#header {
+    background: #ecf0f1;
+}
+
+#viewform input,
+#viewform textarea,
+#viewform select {
+    text-align: center;
+}
+
+.model .model-dialog {
+    max-width: 400px;
+}
+
+#rt {
+    margin-top: 30px;
+}
+
+#rt label {
+    margin-top: 32px;
+}
+
+.model .model-header,
+.model .model-body,
+.model .model-footer {
+    padding: 20px 30px;
+}
+
+#cancelbtn input {
+    margin-top: 35px;
+}
+
+.model .model-content {
+    border-radius: 3px;
+    display: block;
+    text-align: center;
+}
+
+.model .model-header,
+.model .model-body,
+.model .model-footer {
+    padding: 20px 30px;
+}
+
+.model .model-footer {
+    background: #ecf0f1;
+    border-radius: 0 0 3px 3px;
+}
+
+.model .model-title {
+    display: inline-block;
+}
+
+.model .form-control {
+    border-radius: 2px;
+    box-shadow: none;
+    border-color: #dddddd;
+}
+
+.model textarea.form-control {
+    resize: vertical;
+}
+
+.model .btn {
+    border-radius: 2px;
+    min-width: 100px;
+}
+
+.model form label {
+    font-weight: normal;
+}
+
+#col1 {
+    margin-top: 20px;
+}
+
+.search-box {
+    position: relative;
+    float: right;
+}
+
+.model-footer {
+    background: #ecf0f1;
+    border-radius: 0 0 3px 3px;
+}
+
+.model .form-control {
+    border-radius: 2px;
+    box-shadow: none;
+    border-color: #dddddd;
+}
+
+.model textarea.form-control {
+    resize: vertical;
+}
+
+.model .btn {
+    border-radius: 2px;
+    min-width: 100px;
+}
+
+.model form label {
+    font-weight: normal;
+}
+
+.search-box {
+    position: relative;
+    float: right;
+}
+
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+
+.alert-danger li {
+    margin-left: 40px;
+}
+
+.alert-danger li:first-child {
+    margin-left: 0;
+}
+
+.search-box img {
+    margin: -1px -10px 0 0;
+    height: 70%;
+    width: 70%;
+    float: right;
+}
+
+.room_mngmnt a {
+    text-decoration: none;
+    color: white;
+    font-size: 26px;
+}
+
+.row2 {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: -20px;
+}
+
+body {
+    color: #566787;
+    background: #f5f5f5;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 13px;
+}
+
+.table-wrapper {
+    background: #fff;
+    padding: 20px 25px;
+    margin: 30px 0;
+    border-radius: 3px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+}
+
+.table-title {
+    background: #435d7d;
+    color: #fff;
+    padding: 15px 30px;
+    margin: -20px -25px 10px;
+    border-radius: 3px 3px 0 0;
+}
+
+.table-title h2 {
+    margin: 5px 0 0;
+    font-size: 24px;
+}
+
+.table-title .btn {
+    color: #fff;
+    float: right;
+    font-size: 13px;
+    border: none;
+    min-width: 50px;
+    border-radius: 2px;
+    outline: none !important;
+    margin-left: 10px;
+}
+
+.table-title .btn i {
+    float: left;
+    font-size: 21px;
+    margin-right: 5px;
+}
+
+.table-title .btn span {
+    float: left;
+    margin-top: 2px;
+}
+
+table.table tr th,
+table.table tr td {
+    border-color: #e9e9e9;
+    padding: 12px 15px;
+    vertical-align: middle;
+}
+
+/*
+table.table tr th:first-child {
+    width: 80px;
+}
+
+table.table tr th:nth-child(1) {
+    width: 80px;
+}
+*/
+
+table.table tr th:last-child {
+    width: 150px;
+}
+
+table.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #fcfcfc;
+}
+
+table.table-striped.table-hover tbody tr:hover {
+    background: #f5f5f5;
+}
+
+table.table th i {
+    font-size: 13px;
+    margin: 0 5px;
+    cursor: pointer;
+}
+
+table.table td:last-child i {
+    opacity: 0.9;
+    font-size: 22px;
+    margin: 0 5px;
+}
+
+table.table td a {
+    font-weight: bold;
+    color: #566787;
+    display: inline-block;
+    text-decoration: none;
+    outline: none !important;
+}
+
+table.table td a:hover {
+    color: #2196F3;
+}
+
+table.table td a.edit {
+    color: #FFC107;
+}
+
+table.table td a.delete {
+    color: #F44336;
+}
+
+table.table td i {
+    font-size: 19px;
+}
+
+.pagination li a {
+    border: none;
+    font-size: 13px;
+    min-width: 30px;
+    min-height: 30px;
+    color: #999;
+    margin: 0 2px;
+    line-height: 30px;
+    border-radius: 2px !important;
+    text-align: center;
+    padding: 0 6px;
+}
+
+.pagination li a:hover {
+    color: #666;
+}
+
+.pagination li.active a:hover {
+    background: #0397d6;
+}
+
+.pagination li.disabled i {
+    color: #ccc;
+}
+
+.pagination li i {
+    font-size: 16px;
+    padding-top: 6px
+}
+
+/* Modal styles */
+.modal .modal-dialog {
+    max-width: 400px;
+}
+
+.modal .modal-header,
+.modal .modal-body,
+.modal .modal-footer {
+    padding: 20px 30px;
+}
+
+.modal .modal-content {
+    border-radius: 3px;
+}
+
+.modal .modal-footer {
+    background: #ecf0f1;
+    border-radius: 0 0 3px 3px;
+}
+
+.modal .modal-title {
+    display: inline-block;
+}
+
+.modal .form-control {
+    border-radius: 2px;
+    box-shadow: none;
+    border-color: #dddddd;
+}
+
+.modal textarea.form-control {
+    resize: vertical;
+}
+
+.modal .btn {
+    border-radius: 2px;
+    min-width: 100px;
+}
+
+.modal form label {
+    font-weight: normal;
+}
+
+.search-box {
+    position: relative;
+    float: right;
+}
+
+.search-box input {
+    height: 34px;
+    width: 120%;
+    padding-left: 35px;
+    border-color: #ddd;
+    box-shadow: none;
+}
+
+.search-box input:focus {
+    border-color: #3FBAE4;
+}
+
+.search-box i {
+    color: #a0a5b1;
+    position: absolute;
+    font-size: 19px;
+    top: 8px;
+    left: 10px;
+}
+
+.navigation {
+    margin-top: 40px;
+    margin-bottom: -29px;
+}
+
+#nav-topics a {
+    font-size: 20px;
+}
+
+#nav-sign a {
+    font-size: 18px;
+}
+
+.navbar-header a {
+    font-size: 22px;
+    padding-right: 40px;
+}
+
+#nav-topics li {
+    padding-right: 40px;
+}
+
+.form-group label {
+    margin-top: 15px;
+}
+
+#clbl input {
+    margin-top: -10px;
+}
+
+#addReservationModal .form-group label {
+    margin-top: 0;
+}
+
+#searchReservationModal .form-group label {
+    margin-top: -5px;
+}
+
+.radio {
+    margin-top: -5px;
+}
+
+@media (max-width: 1080px) {
+    .search-box img {
+        height: 35px;
+        width: 175px;
+        margin: 10px 10px 10px 10px;
+    }
+
+    .table-title .btn {
+        margin: 10px 10px 10px 10px;
+    }
+}

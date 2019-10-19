@@ -1,0 +1,11 @@
+#form_container {
+    padding: 15px 15px;
+    margin-top: 15px;
+    background: rgba(255, 255, 255, 0.75);
+}
+
+body {
+    background-color: #F4EAD5;
+    background-image: url("images/hotel.jpg");
+    background-size: cover;
+}

@@ -1,0 +1,85 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    padding: 20px;
+    background-color: white;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+/* Full-width input fields */
+input[type=text],
+input[type=password] {
+    width: auto;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #99ccff;
+}
+
+div {
+    margin: 70px;
+    border: 1px solid #4CAF50;
+}
+
+input[type=text]:focus,
+input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+}
+
+/* Overwrite default styles of hr */
+hr {
+    border: 1px solid #f1f1f1;
+    margin-bottom: 25px;
+}
+
+.select {
+    width: 35px;
+    height: 25px;
+}
+
+.makeOrder {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 143px;
+    height: 45px;
+    opacity: 0.9;
+    margin-right: -370px;
+    margin-left: 370px;
+}
+
+.registerbtn:hover {
+    opacity: 1;
+}
+
+.clearbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 143px;
+    height: 45px;
+    opacity: 0.9;
+    margin-left: 481px;
+}
+
+
+/* Set a grey background color and center the text of the "sign in" section */
+.signin {
+    background-color: #f1f1f1;
+    text-align: center;
+}

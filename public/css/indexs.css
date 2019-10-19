@@ -1,0 +1,124 @@
+/*tiles*/
+#first {
+    margin-top: 20px;
+    margin-right: 0px;
+    margin-left: 30px;
+    margin-bottom: 175px;
+    background-color: #777777;
+    height: 250px;
+}
+
+#sec {
+    margin-top: -425px;
+    margin-right: 200px;
+    margin-left: 500px;
+    margin-bottom: 175px;
+    background-color: #2a9055;
+    height: 250px;
+}
+
+#third {
+    margin-top: -150px;
+    margin-right: 200px;
+    margin-left: 30px;
+    margin-bottom: 175px;
+    background-color: #1b4b72;
+    height: 250px;
+}
+
+#four {
+    margin-top: -425px;
+    margin-right: 100px;
+    margin-left: 500px;
+    margin-bottom: 175px;
+    background-color: #000000;
+    height: 250px;
+}
+
+#r1 {
+    padding-top: 30px;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-bottom: 22px;
+    margin: 15px 20px 0px 20px;
+}
+
+#r2 {
+    padding-top: 03px;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-bottom: 0px;
+    margin: -30px 20px 0px 20px;
+}
+
+.btn {
+    border: 2px solid black;
+    background-color: white;
+    color: black;
+    padding: 14px 28px;
+    cursor: pointer;
+    height: 150px;
+    width: 200px;
+}
+
+.rep {
+    border-color: #4CAF50;
+    color: green;
+}
+
+.rep:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.uti {
+    border-color: #4CAF50;
+    color: green;
+}
+
+.uti:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.inc {
+    border-color: #4CAF50;
+    color: green;
+}
+
+.inc:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.exp {
+    border-color: #4CAF50;
+    color: green;
+}
+
+.exp:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.btn rep {
+    border-radius: 5px;
+}
+
+.btn.uti {
+    font-size: 25px;
+}
+
+.btn.exp {
+    font-size: 25px;
+}
+
+.btn.inc {
+    font-size: 25px;
+}
+
+.btn.rep {
+    font-size: 25px;
+}
+
+/*tile end*/

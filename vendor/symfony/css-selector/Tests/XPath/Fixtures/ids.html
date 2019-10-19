@@ -1,0 +1,51 @@
+<html id="html">
+<head>
+    <link href="foo" id="link-href"/>
+    <link id="link-nohref"/>
+</head>
+<body>
+<div id="outer-div">
+    <a id="name-anchor" name="foo"></a>
+    <a href="http://localhost/foo" id="tag-anchor" rel="tag">link</a>
+    <a href="https://example.org" id="nofollow-anchor" rel="nofollow">
+        link</a>
+    <ol class="a b c" id="first-ol">
+        <li id="first-li">content</li>
+        <li id="second-li" lang="En-us">
+            <div id="li-div">
+            </div>
+        </li>
+        <li class="ab c" id="third-li"></li>
+        <li class="ab
+c" id="fourth-li"></li>
+        <li id="fifth-li"></li>
+        <li id="sixth-li"></li>
+        <li id="seventh-li"></li>
+    </ol>
+    <p id="paragraph">
+        <b id="p-b">hi</b> <em id="p-em">there</em>
+        <b id="p-b2">guy</b>
+        <input id="checkbox-unchecked" type="checkbox"/>
+        <input disabled="" id="checkbox-disabled" type="checkbox"/>
+        <input checked="checked" id="text-checked" type="text"/>
+        <input type="hidden"/>
+        <input disabled="disabled" type="hidden"/>
+        <input checked="checked" id="checkbox-checked" type="checkbox"/>
+        <input checked="checked" disabled="disabled"
+               id="checkbox-disabled-checked" type="checkbox"/>
+    <fieldset disabled="disabled" id="fieldset">
+        <input id="checkbox-fieldset-disabled" type="checkbox"/>
+        <input type="hidden"/>
+    </fieldset>
+    </p>
+    <ol id="second-ol">
+    </ol>
+    <map name="dummymap">
+        <area coords="200,250,25" href="foo.html" id="area-href" shape="circle"/>
+        <area id="area-nohref" shape="default"/>
+    </map>
+</div>
+<div foobar="ab bc
+cde" id="foobar-div"><span id="foobar-span"></span></div>
+</body>
+</html>

@@ -1,0 +1,19 @@
+.image {
+    margin: 0px;
+    border: 1.5px black solid;
+    border-radius: 5px;
+    padding: 40px;
+    border-radius: 50%;
+
+}
+
+td {
+    padding: 40px;
+}
+
+h2 {
+    font-family: Bahnschrift;
+    padding-top: 50px;
+    font-size: 30px;
+    color: black;
+}
